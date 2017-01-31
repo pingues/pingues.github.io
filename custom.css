@@ -9,7 +9,7 @@ a.souligne {
 }
 
 ul#menu-menu-1 {
-    font-family: oswald;
+    font-family: 'oswald';
     font-size: 150%;
 }
 
@@ -78,20 +78,20 @@ font-weight: bold;
 
 
 .navbar-default {
-    background-color: white; 
+    background-color: 'white'; 
     border-bottom: 5px solid #d5d7db;
 	border-top:none;
 }
 
 
 h2 {
-    font-family: Oswald;
+    font-family: 'Oswald';
     font-size: 30px;
         color: black;
 }
 
 ul.related_post li a {
-font-family: oswald;
+font-family: 'oswald';
     text-transform: uppercase;
     color: #060a10;
 }
@@ -213,7 +213,7 @@ a.home {
 
 .entete{
 	background-color:#282e20;
-	background-image: url(http://tarotdesdieux.com/wp-content/uploads/2017/01/banniere-tarot-des-dieux.jpg);
+	background-image: url('https://pingues.github.io/banniere-tarot-des-dieux.jpg');
     	background-repeat: no-repeat;
 }
 
