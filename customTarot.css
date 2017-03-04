@@ -22,4 +22,7 @@ body {
     color: black;
 }
 
+h1 {
+    text-transform: uppercase;
+}
 
