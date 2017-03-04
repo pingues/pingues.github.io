@@ -1,6 +1,4 @@
-.sidebar h2 {
-    background: white;
-}
+
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -10,6 +8,7 @@ body {
 }
 
 .sidebar h2 {
+    background: white;
     font-family: 'Oswald';
     color: #393b3d;
     font-size: 26px;
