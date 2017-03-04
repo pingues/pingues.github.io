@@ -3,6 +3,13 @@
     font-size: 200%;
     background-color: yellow;
 }
+
+.pubFbk {
+    font-family: 'Oswald', cursive;
+    font-size: 150%;
+}
+
+
 .sidebar h2 {
     background: white;
     font-family: 'Oswald';
