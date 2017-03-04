@@ -9,7 +9,17 @@ body {
     color: black;
 }
 
-h1, h2, h3, h4, h5, h6 {
-
-    margin-bottom: 0px;
+.sidebar h2 {
+    font-family: 'Oswald';
+    color: #393b3d;
+    font-size: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: normal;
+    border-bottom: 5px solid #c03;
+    width: 100%;
+    display: block;
+    padding-bottom: 9px;
 }
+
