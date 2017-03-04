@@ -1,12 +1,4 @@
 
-
-body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: black;
-}
-
 .sidebar h2 {
     background: white;
     font-family: 'Oswald';
@@ -21,4 +13,12 @@ body {
     display: block;
     padding-bottom: 9px;
 }
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: black;
+}
+
 
