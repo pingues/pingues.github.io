@@ -35,6 +35,10 @@ body {
 }
 
 h1 {
+    -webkit-margin-before: none;
     text-transform: uppercase;
+    margin-top: 0.67em;
 }
+
+
 
