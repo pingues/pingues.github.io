@@ -1,3 +1,8 @@
+body .navbar {
+    border-bottom: 5px solid #d5d7db;
+    border-top: none;
+}
+
 .navbar-brand.logo.tiny-logo {
     color: black;
 }
