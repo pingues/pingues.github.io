@@ -6,3 +6,9 @@ body {
 .couleurHeader{
     background-color:#6D9BE8;
 }
+
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    display: none;
+}
+
