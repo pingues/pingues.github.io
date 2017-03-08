@@ -34,3 +34,8 @@ body {
 .panel-body.text-center.bleu {
     background-color: #46AAB3;
 }
+
+.navbar-default {
+    font-family: Anton;
+    font-size: large;
+}
