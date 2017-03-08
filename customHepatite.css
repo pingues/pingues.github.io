@@ -12,3 +12,13 @@ body {
     display: none;
 }
 
+.H1JourneeReseau {
+    font-family: Anton;
+}
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #FAAA00;
+    border-color: black;
+}
+
