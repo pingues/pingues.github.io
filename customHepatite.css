@@ -16,6 +16,10 @@ body {
     font-family: Anton;
 }
 
+.panel-default {
+    border-color: black;
+}
+
 .panel-default>.panel-heading {
     color: #333;
     background-color: #FAAA00;
