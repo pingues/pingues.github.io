@@ -26,3 +26,6 @@ body {
     border-color: black;
 }
 
+.panel-title {
+    font-weight: bold;
+}
