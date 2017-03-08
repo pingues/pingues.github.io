@@ -29,3 +29,7 @@ body {
 .panel-title {
     font-weight: bold;
 }
+
+.panel-body.text-center.bleu {
+    background-color: #F8F8F8;
+}
