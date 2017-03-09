@@ -59,3 +59,7 @@ h1{
     background-color: #FFCC62;
     color: black;
 }
+.navbar-nav > li {
+    float: left;
+    font-size: larger;
+}
