@@ -46,3 +46,7 @@ h1{
     background-color: #FAAA00;
         border-color: #C38500;
 }
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
