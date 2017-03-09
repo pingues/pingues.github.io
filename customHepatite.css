@@ -51,3 +51,6 @@ h1{
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color: black;
 }
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
