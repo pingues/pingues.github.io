@@ -40,14 +40,13 @@ h1{
     background-color: #46AAB3;
 }
 
-.navbar-nav>li>a {
-    color: black;
-}
+
 .navbar-default {
     font-family: Anton;
     font-size: large;
     background-color: #FAAA00;
-        border-color: #C38500;
+     border-color: #C38500;
+     color: black;
 }
 
 
