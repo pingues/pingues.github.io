@@ -12,6 +12,11 @@ body {
     display: none;
 }
 
+h1{
+    text-transform: uppercase;
+    font-family: Anton;
+}
+
 .H1JourneeReseau {
     font-family: Anton;
     margin-bottom: 50px;
