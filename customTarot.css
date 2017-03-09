@@ -25,6 +25,13 @@ body .navbar {
     font-size: 80%;
 }
 
+h1 {
+    font-family:Anton;
+    -webkit-margin-before: none;
+    text-transform: uppercase;
+    margin-top: 0.67em;
+}
+
 
 .sidebar h2 {
     background: white;
@@ -49,11 +56,6 @@ body {
     color: black;
 }
 
-h1 {
-    -webkit-margin-before: none;
-    text-transform: uppercase;
-    margin-top: 0.67em;
-}
 
 
 
