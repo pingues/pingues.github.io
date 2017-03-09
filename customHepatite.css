@@ -55,3 +55,8 @@ h1{
 .navbar-default .navbar-nav > li > a {
     color: black;
 }
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: #FFCC62;
+    color: black;
+}
