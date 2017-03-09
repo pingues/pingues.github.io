@@ -70,3 +70,13 @@ h1{
     font-family: Anton;
     font-size: 250%;
 }
+
+.wpcu_block_title {
+    text-align: left;
+    font-weight: bold;
+    font-size: 250%;
+    line-height: 2.2em;
+    color: black;
+    font-family: anton;
+    text-transform: uppercase;
+}
