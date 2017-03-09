@@ -40,6 +40,9 @@ h1{
     background-color: #46AAB3;
 }
 
+.navbar-nav>li>a {
+    color: black;
+}
 .navbar-default {
     font-family: Anton;
     font-size: large;
@@ -47,6 +50,4 @@ h1{
         border-color: #C38500;
 }
 
-.navbar-default .navbar-nav>li>a {
-    color: black;
-}
+
