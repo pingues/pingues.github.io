@@ -3,6 +3,12 @@ body .navbar {
     border-top: none;
 }
 
+h1 {
+    -webkit-margin-before: none;
+    text-transform: uppercase;
+    margin-top: 0.67em;
+    font-family: anton;
+}
 .navbar-brand.logo.tiny-logo {
     color: black;
 }
