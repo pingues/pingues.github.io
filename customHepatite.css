@@ -64,7 +64,7 @@ h1{
     font-size: larger;
 }
 
-.H1campagne2015{
+.H1campagne2015, .H2campagne2015{
         text-transform: uppercase;
     font-family: Anton;
     font-size: 250%;
