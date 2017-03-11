@@ -79,3 +79,7 @@ a.souligne {
 span.post-labels > a {
     color: black;
 }
+
+ul.post-sharing-menu > a {
+    color: inherit;
+}
