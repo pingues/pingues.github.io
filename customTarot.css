@@ -66,8 +66,9 @@ body {
     color: black;
 }
 
-a, a:hover, a:focus {
+a, a:hover, a:focus, a:visited {
     color: blue;
+    text-decoration:underline;
 }
 
 a.souligne {
