@@ -100,3 +100,8 @@ ul.post-sharing-menu > a {
     color: white;
     text-decoration:none;
 }
+
+h1 a:hover {
+    text-decoration: none;
+    color: white;
+}
