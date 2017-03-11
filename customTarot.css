@@ -66,7 +66,7 @@ body {
     color: black;
 }
 
-a {
+a, a:hover, a:focus {
     color: blue;
 }
 
