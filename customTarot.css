@@ -76,4 +76,6 @@ a.souligne {
     text-decoration:none;
 }
 
-
+span.post-labels > a {
+    color: black;
+}
