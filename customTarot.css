@@ -83,3 +83,12 @@ span.post-labels > a {
 ul.post-sharing-menu > a {
     color: inherit;
 }
+
+.sidebar .widget-content a {
+    color: black;
+    line-height: 15px;
+    font-size: 19px;
+    text-decoration: none;
+}
+
+
