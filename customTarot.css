@@ -5,6 +5,7 @@ body .navbar {
 
 .navbar-brand.logo.tiny-logo {
     color: black;
+    text-decoration: none;
 }
 
 
@@ -91,4 +92,6 @@ ul.post-sharing-menu > a {
     text-decoration: none;
 }
 
-
+.navbar-zipson .navbar-nav > li a {
+    text-decoration: none;
+}
