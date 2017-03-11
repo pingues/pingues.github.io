@@ -95,3 +95,8 @@ ul.post-sharing-menu > a {
 .navbar-zipson .navbar-nav > li a {
     text-decoration: none;
 }
+
+.custom-header-text-color {
+    color: white;
+    text-decoration:none;
+}
