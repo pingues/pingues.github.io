@@ -51,7 +51,7 @@ h1 {
 }
 
 .navbar-zipson .navbar-nav > li a:hover, .navbar-zipson .navbar-nav > li a:focus {
-    background: white;
+    background: yellow;
     color: black;
 }
 
