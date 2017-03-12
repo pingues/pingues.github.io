@@ -103,7 +103,7 @@ ul.post-sharing-menu > a {
 
 h1 a:hover, a:focus, a:visited {
     text-decoration: none;
-    color: white;
+    color: blue;
 }
 
 h1 a:hover {
