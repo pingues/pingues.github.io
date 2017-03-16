@@ -114,3 +114,7 @@ h1 a:hover {
 a.custom-header-text-color {
     color: white;
 }
+
+img.img-responsive.carte {
+    margin-top: 15px;
+}
