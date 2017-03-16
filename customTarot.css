@@ -118,3 +118,7 @@ a.custom-header-text-color {
 img.img-responsive.carte {
     margin-top: 15px;
 }
+
+h2 {
+    text-transform: uppercase;
+}
