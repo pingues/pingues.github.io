@@ -122,3 +122,7 @@ img.img-responsive.carte {
 h2 {
     text-transform: uppercase;
 }
+
+html {
+    font-size: 100%;
+}
