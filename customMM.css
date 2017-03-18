@@ -2,3 +2,11 @@ img{
 max-width: 100%;
 height: auto;
 }
+
+.PageList {
+    text-transform: uppercase;
+}
+
+.tabs-inner .widget li a {
+ border-right: 0px solid #dddddd; 
+}
