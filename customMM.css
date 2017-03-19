@@ -15,3 +15,7 @@ a.menu-droite {
     color: black;
     font: normal bold 20px 'Oswald';
 }
+
+.menu-droite:hover {
+    text-decoration: none;
+}
