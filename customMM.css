@@ -10,3 +10,8 @@ height: auto;
 .tabs-inner .widget li a {
  border-right: 0px solid #dddddd; 
 }
+
+a.menu-droite {
+    color: black;
+    font: normal bold 20px 'Oswald';
+}
