@@ -138,3 +138,12 @@ h3 {
         margin-top: 20px;
     margin-bottom: 10px;
 }
+
+.pAccueil {
+    color: #393b3d;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 100;
+    font-family: 'Oswald';
+    letter-spacing: normal;
+}
