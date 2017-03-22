@@ -127,3 +127,14 @@ html {
     /* font-size: 62.5%; */
     -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
+
+h3 {
+    font-family: 'Oswald';
+    color: #060a10;
+    font-size: 19px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 25px;
+        margin-top: 20px;
+    margin-bottom: 10px;
+}
