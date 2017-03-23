@@ -14,12 +14,12 @@ body {
 
 h1{
     text-transform: uppercase;
-    font-family: Anton;
+    font-family: 'Anton';
         margin-top: 0px;
 }
 
 .H1JourneeReseau {
-    font-family: Anton;
+    font-family: 'Anton';
     margin-bottom: 50px;
 }
 
@@ -43,7 +43,7 @@ h1{
 
 
 .navbar-default {
-    font-family: Anton;
+    font-family: 'Anton';
     font-size: large;
     background-color: #FAAA00;
 }
@@ -90,4 +90,9 @@ h1{
 .wpcufpn_container.default .title {
     font-size: 1.3em;
    
+}
+
+.wpcufpn_container .read-more {
+    color: #337ab7;
+    font-size: 1.1em;
 }
