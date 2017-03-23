@@ -164,3 +164,8 @@ h3 {
 .une {
     color: black;
 }
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
