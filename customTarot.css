@@ -67,10 +67,10 @@ body {
     color: black;
 }
 
-a, a:hover, a:focus, a:visited {
+/*a, a:hover, a:focus, a:visited {
     color: blue;
     text-decoration:underline;
-}
+}*/
 
 a.souligne {
     color: inherit;
