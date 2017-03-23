@@ -147,3 +147,16 @@ h3 {
     font-family: 'Oswald';
     letter-spacing: normal;
 }
+
+.accueil {
+    color: #393b3d;
+    font-size: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: normal;
+    border-bottom: 5px solid #c03;
+    width: 100%;
+    display: block;
+    padding-bottom: 9px;
+}
