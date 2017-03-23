@@ -172,3 +172,11 @@ hr {
     color:blue;
     text-decoration:underline;
 }
+
+.post-comment-link, .post-timestamp {
+    display: none;
+}
+
+span.post-author.vcard {
+    display: none;
+}
