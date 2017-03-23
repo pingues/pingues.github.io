@@ -101,10 +101,10 @@ ul.post-sharing-menu > a {
     text-decoration:none;
 }
 
-h1 a:hover, a:focus, a:visited {
+/*h1 a:hover, a:focus, a:visited {
     text-decoration: none;
     color: blue;
-}
+}*/
 
 h1 a:hover {
     text-decoration: none;
