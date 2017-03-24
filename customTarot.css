@@ -180,3 +180,9 @@ hr {
 span.post-author.vcard {
     display: none;
 }
+
+.carte {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid darkgrey;
+}
