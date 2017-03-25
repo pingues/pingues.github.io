@@ -195,3 +195,10 @@ span.post-author.vcard {
     font-size: 19px;
     background-color: yellow;
 }
+
+.lead {
+    margin-bottom: 20px;
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 1.4;
+}
