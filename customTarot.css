@@ -184,5 +184,8 @@ span.post-author.vcard {
 .carte {
     padding: 10px;
     border-radius: 8px;
-    border: 1px solid darkgrey;
+    border: 1px solid 'darkgrey';
+    -webkit-box-shadow: 6px 7px 13px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 7px 13px -2px rgba(0,0,0,0.75);
+       box-shadow: 6px 7px 13px -2px rgba(0,0,0,0.75);
 }
