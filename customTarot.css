@@ -1,3 +1,10 @@
+.entete {
+    background-color: #282e20;
+    background-image: url('https://1.bp.blogspot.com/-P_QcDLG5pKg/WNe5jBoYoCI/AAAAAAAAEoU/3GBFrZ7PRkov-OcehKJC2F3JkBiQ8l0rQCPcB/s1600/banniere-tarot-des-dieux.jpg');
+    background-repeat: no-repeat;
+    float: right;
+}
+
 .navbar {
     border-bottom: 5px solid #d5d7db;
     border-top: none;
@@ -203,9 +210,4 @@ span.post-author.vcard {
     line-height: 1.4;
 }
 
-.entete {
-    background-color: #282e20;
-    background-image: url(https://1.bp.blogspot.com/-P_QcDLG5pKg/WNe5jBoYoCI/AAAAAAAAEoU/3GBFrZ7PRkov-OcehKJC2F3JkBiQ8l0rQCPcB/s1600/banniere-tarot-des-dieux.jpg);
-    background-repeat: no-repeat;
-    float: right;
-}
+
