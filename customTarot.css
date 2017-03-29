@@ -212,4 +212,5 @@ span.post-author.vcard {
 
 .surligne{
     background-color: yellow;
+    display: inline;
 }
