@@ -100,3 +100,7 @@ h1{
 .tabs-outer {
     background: #faaa00 ;
 }
+
+h3.post-title{
+    display:none;
+}
