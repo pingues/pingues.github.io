@@ -110,3 +110,7 @@ h3.post-title{
     text-transform:uppercase;
     font-size:larger;
 }
+
+.date-outer {
+        -webkit-box-shadow: none;
+}
