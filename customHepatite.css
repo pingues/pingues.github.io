@@ -104,3 +104,9 @@ h1{
 h3.post-title{
     display:none;
 }
+
+.tabs-inner .widget li a {
+    font-family: 'Anton';
+    text-transform:uppercase;
+    font-size:larger;
+}
