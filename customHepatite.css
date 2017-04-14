@@ -115,3 +115,7 @@ h3.post-title{
         -webkit-box-shadow: none;
     border:none;
 }
+
+#blog-pager {
+    display:none;
+}
