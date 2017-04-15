@@ -144,3 +144,7 @@ body .navbar {
     height: inherit;
     line-height: inherit;
 }
+
+.tabs-inner .widget li a{
+    border-top:none;
+}
