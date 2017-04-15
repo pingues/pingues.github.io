@@ -127,3 +127,7 @@ h3.post-title{
     text-transform:uppercase;
     text-align: center;
 }
+
+body .navbar {
+    display:none;
+}
