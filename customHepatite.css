@@ -148,3 +148,9 @@ body .navbar {
 .tabs-inner .widget li a{
     border-top:none;
 }
+
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+    background: #faaa00;
+    color: #000000;
+    border-top:none;
+}
