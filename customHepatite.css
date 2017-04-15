@@ -160,3 +160,7 @@ body .navbar {
         -webkit-box-shadow: none;
         border: none;
 }
+
+.main-inner .widget h2 + div, .footer-inner .widget h2 + div {
+     border-top:none;
+}
