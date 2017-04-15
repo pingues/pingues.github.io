@@ -154,3 +154,8 @@ body .navbar {
     color: #000000;
     border-top:none;
 }
+
+.main-inner .widget {
+        -webkit-box-shadow: none;
+        border: none;
+}
