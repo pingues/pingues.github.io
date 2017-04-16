@@ -164,3 +164,9 @@ body .navbar {
 .main-inner .widget h2 + div, .footer-inner .widget h2 + div {
      border-top:none;
 }
+
+.post-title.entry-title {
+    font-family: 'anton';
+    text-transform: uppercase;
+    font-size: 36px;
+}
