@@ -182,3 +182,8 @@ body .navbar {
     text-transform: uppercase;
     font-size: 20px;
 }
+
+.main-inner .widget h2 {
+    font-family: 'anton';
+    font-size: 20px;
+}
