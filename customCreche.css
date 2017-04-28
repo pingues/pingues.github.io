@@ -6,6 +6,9 @@ a#actions-menu-rss {
     display: none;
 }
 
+a#actions-menu-view_xml{
+    display: none;
+}
 
 .navbar-inner {
     background-color: white;
