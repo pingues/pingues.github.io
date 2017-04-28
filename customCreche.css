@@ -10,6 +10,10 @@ a#actions-menu-view_xml{
     display: none;
 }
 
+a#actions-menu-show_all{
+    display: none;
+}
+
 .navbar-inner {
     background-color: white;
 }
