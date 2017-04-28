@@ -2,6 +2,9 @@ a#actions-menu-update_set {
     display: none;
 }
 
+#actions-menu-rss {
+    display: none;
+}
 
 
 .navbar-inner {
