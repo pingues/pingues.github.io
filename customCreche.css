@@ -27,3 +27,7 @@ a#actions-menu-show_all{
 body {
     background: white;
 }
+
+.widget-content {
+    border:none;
+}
