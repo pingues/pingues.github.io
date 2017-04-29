@@ -37,13 +37,13 @@ body {
 }
 
 .table-bordered th {
-    background: #E9E9E9;
+    background: #01B9DD;
+    /*background: none;
     background: none;
     background: none;
     background: none;
     background: none;
-    background: none;
-    background:none;
+    background:none;*/
     filter: none;
     
 }
