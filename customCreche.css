@@ -18,3 +18,8 @@ a#actions-menu-show_all{
     background-image:none;
     background-color: white;
 }
+
+.navbar .nav>li>a {
+    color: black !important;
+    text-shadow:none;
+}
