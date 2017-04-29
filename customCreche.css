@@ -41,3 +41,11 @@ body {
     filter: none;
     
 }
+
+th > a {
+    color: white;
+}
+
+.unmarked_link {
+    color: black;
+}
