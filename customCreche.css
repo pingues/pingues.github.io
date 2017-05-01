@@ -6,7 +6,9 @@
     box-shadow: none;
 }
 
-
+.widget-header{
+    display:none;
+}
 
 
 a#actions-menu-update_set {
