@@ -57,7 +57,7 @@ body {
 }
 
 .table-bordered th {
-    background: #016375;
+    /*background: #016375;*/
     filter: none;
     
 }
