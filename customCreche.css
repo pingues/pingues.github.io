@@ -1,3 +1,14 @@
+.breadcrumb {
+    background-color:none;
+    background-image:none;
+    border:none;
+    border-radius:none;
+    box-shadow: none;
+}
+
+
+
+
 a#actions-menu-update_set {
     display: none;
 }
