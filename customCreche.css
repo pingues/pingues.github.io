@@ -73,3 +73,8 @@ th > a {
 .dataface-view-status{
     display:none;
 }
+
+.record-view-label {
+    width: 30%;
+    text-align: right;
+}
