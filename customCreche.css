@@ -78,3 +78,16 @@ th > a {
     width: 30%;
     text-align: right;
 }
+
+.table-bordered{
+    border:none;
+    border-left:none;
+}
+
+.table-bordered th, .table-bordered td {
+    border-left: none;
+}
+
+.table th, .table td {{
+     border-top: none;
+}
