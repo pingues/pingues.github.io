@@ -10,6 +10,10 @@
     display:none;
 }
 
+#actions-menu-delete {
+    background-color: #da4f49;
+    color: white;
+}
 
 a#actions-menu-update_set {
     display: none;
