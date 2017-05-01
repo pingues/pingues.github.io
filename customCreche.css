@@ -62,3 +62,7 @@ th > a {
 .unmarked_link {
     color: black;
 }
+
+.dataface-view-status{
+    display:none;
+}
