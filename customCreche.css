@@ -92,6 +92,6 @@ th > a {
      border-top: none;
 }
    
-.result-list-actions {
+ul#result-list-actions {
     display: none;
 }
