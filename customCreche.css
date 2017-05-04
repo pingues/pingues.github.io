@@ -92,6 +92,6 @@ th > a {
      border-top: none;
 }
    
-h3.Dataface_collapsible_sidebar {
+ul#result-list-actions {
     display: none;
 }
