@@ -88,10 +88,10 @@ th > a {
     border-left: none;
 }
 
-.table th, .table td {{
+.table th, .table td {
      border-top: none;
 }
    
-ul#result-list-actions {
+.result-list-actions {
     display: none;
 }
