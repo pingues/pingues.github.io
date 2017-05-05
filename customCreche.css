@@ -95,3 +95,7 @@ th > a {
 h3.Dataface_collapsible_sidebar.movable-handle {
     display: none;
 }
+
+.navbar .nav a {
+    font-size: 18px;
+}
