@@ -104,3 +104,7 @@ h3.Dataface_collapsible_sidebar.movable-handle {
 .table-bordered th {
         font-size: 14px;
 }
+
+h3.Dataface_collapsible_sidebar {
+    display: none;
+}
