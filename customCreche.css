@@ -109,4 +109,8 @@ h3.Dataface_collapsible_sidebar {
     display: none;
 }
 
-.creche
+.widget-header h3 {
+    font-family: 'Gloria Hallelujah';
+    font-size: 18px;
+    color: black;
+}
