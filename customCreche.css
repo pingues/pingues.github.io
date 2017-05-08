@@ -6,6 +6,10 @@ body {
     font-size: 15px;
 }
 
+.dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover {
+    background: #02B5DD;
+}
+
 .breadcrumb {
     background-color:none;
     background-image:none;
