@@ -123,3 +123,6 @@ h3.Dataface_collapsible_sidebar {
     background:none;
     border:none;
 }
+.controls.pull-right {
+    margin-top: 10px;
+}
