@@ -120,3 +120,7 @@ h3.Dataface_collapsible_sidebar {
     font-size: 18px;
     color: black;
 }
+
+.widget-header {
+    background:none;
+}
