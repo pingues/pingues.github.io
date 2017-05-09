@@ -135,3 +135,7 @@ h3.Dataface_collapsible_sidebar {
 a#icon-edit {
     display: none;
 }
+
+.footer-inner {
+    background: none;
+}
