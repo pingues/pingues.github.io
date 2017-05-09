@@ -147,3 +147,7 @@ a#icon-edit {
 .footer {
     border-top: none;
 }
+
+.result-stats.related-result-stats {
+    display: none;
+}
