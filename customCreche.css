@@ -151,3 +151,7 @@ a#icon-edit {
 .result-stats.related-result-stats {
     display: none;
 }
+
+.username-field {
+    background: url(http://creche.craym.eu/modules/egrappler/img/signin/user.png) no-repeat;
+}
