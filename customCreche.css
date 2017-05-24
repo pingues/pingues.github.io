@@ -153,3 +153,7 @@ a#icon-edit {
 .username-field {
     background: url(http://creche.craym.eu/modules/egrappler/img/signin/user.png) no-repeat;
 }
+
+.alert-block {
+    margin-top: 20px;
+}
