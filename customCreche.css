@@ -97,9 +97,7 @@ th > a {
     border-left: none;
 }
 
-.table th, .table td {
-     border-top: none;
-}
+
    
 h3.Dataface_collapsible_sidebar.movable-handle {
     display: none;
