@@ -60,9 +60,9 @@ a#actions-menu-show_all{
 
 
 
-.table-striped tbody tr:nth-child(2n+1) td, .table-striped tbody tr:nth-child(2n+1) th {
+/*.table-striped tbody tr:nth-child(2n+1) td, .table-striped tbody tr:nth-child(2n+1) th {
     background-color: white;
-}
+}*/
 
 .table-bordered th {
     /*background: #016375;*/
