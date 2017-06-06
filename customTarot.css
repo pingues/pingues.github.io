@@ -210,7 +210,7 @@ span.post-author.vcard {
 
 /************** scripts tirages  ***********************/
 
-    
+  
 .carte {
     margin-right: 4px;
     margin-bottom: 25px;
@@ -219,4 +219,11 @@ span.post-author.vcard {
     -webkit-box-shadow: 6px 7px 13px -2px rgba(0,0,0,0.75);
     -moz-box-shadow: 6px 7px 13px -2px rgba(0,0,0,0.75);
        box-shadow: 6px 7px 13px -2px rgba(0,0,0,0.75);
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+}
+
+.carte:hover {
+    top: -10px;
 }
