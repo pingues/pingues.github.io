@@ -214,3 +214,9 @@ span.post-author.vcard {
     background-color: yellow;
     display: inline;
 }
+
+/************** scripts ***********************/
+.carte {
+    margin-right: 4px;
+    margin-bottom: 25px;
+}
