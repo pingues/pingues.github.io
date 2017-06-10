@@ -221,9 +221,13 @@ span.post-author.vcard {
        box-shadow: 6px 7px 13px -2px rgba(0,0,0,0.75);
     position: relative;
     top: 0;
-    transition: top ease 0.5s;
+    transition: top ease 0.3s;
 }
 
 .carte:hover {
     top: -10px;
+}
+
+.vert {
+    background-color: #009F1D;
 }
