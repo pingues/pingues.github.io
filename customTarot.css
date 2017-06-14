@@ -187,7 +187,7 @@ span.post-author.vcard {
 .appelJAime {
     font-family: 'oswald';
     font-size: 19px;
-    background-color: yellow;
+    background-color: 'yellow';
 }
 
 .lead {
@@ -198,7 +198,7 @@ span.post-author.vcard {
 }
 
 .surligne{
-    background-color: yellow;
+    background-color: 'yellow';
     display: inline;
 }
 
@@ -210,7 +210,7 @@ span.post-author.vcard {
     margin-bottom: 10px;
     font-weight: 500;
     line-height: 1.1;
-    color: inherit;
+    color: 'white';
     margin: .67em 0;
     text-rendering: optimizelegibility;
     padding: 0;
