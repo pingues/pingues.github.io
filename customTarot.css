@@ -1,6 +1,6 @@
 /* efface le nb de like fbk */
 ._1drq {
-    display: none;
+    display: none !important;
 }
 
 
