@@ -1,3 +1,8 @@
+/* efface le nb de like fbk */
+._1drq {
+    display: none;
+}
+
 
 .navbar {
     border-bottom: 5px solid #d5d7db;
