@@ -1,7 +1,4 @@
-/* efface le nb de like fbk */
-._1drq {
-    display: none !important;
-}
+
 
 
 .navbar {
@@ -10,7 +7,6 @@
 }
 
 .navbar-brand.logo.tiny-logo {
-    color: black;
     text-decoration: none;
 }
 
