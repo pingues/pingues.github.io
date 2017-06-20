@@ -221,8 +221,8 @@ span.post-author.vcard {
     position: relative;
 }
 
-.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
-     color: #262626;
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    background-color: #262626;
 }
 /************** scripts tirages  ***********************/
 
