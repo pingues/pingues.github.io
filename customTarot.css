@@ -14,12 +14,14 @@
     font-family: 'Oswald', cursive;
     font-size: 200%;
     background-color: yellow;
+    display: inline;
 }
 
 .pubFbk {
     font-family: 'Oswald', cursive;
     font-size: 150%;
     margin-bottom: 10px;
+    display: inline;
 }
 
 .copyright {
