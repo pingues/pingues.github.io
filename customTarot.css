@@ -256,5 +256,6 @@ span.post-author.vcard {
 
 .icone {
     width : 50px;
-    vertical-align:baseline;
+    vertical-align: -10px;
+    margin-right: 7px;
 }
