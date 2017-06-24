@@ -253,3 +253,8 @@ span.post-author.vcard {
 .vert {
     background-color: #009F1D;
 }
+
+.icone {
+    width : 50px;
+    display:inline;
+}
