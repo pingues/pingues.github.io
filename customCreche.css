@@ -170,3 +170,7 @@ li.gros {
 h1{
     margin-bottom: 20px;
 }
+
+.site-other {
+    display: none;
+}
