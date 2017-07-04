@@ -171,11 +171,11 @@ h1{
     margin-bottom: 20px;
 }
 
-.site-other {
+#site-other {
     display: none;
 }
 
-.siteId-other  {
+#siteId-other  {
     display: none;
 }
 
