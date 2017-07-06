@@ -182,3 +182,8 @@ h1{
 .actions-menu-new_transmission, actions-menu-new{
     background-color: lightgreen;
 }
+
+.actions-menu-printable_report {
+    background-color: orange;
+    color: white;
+}
