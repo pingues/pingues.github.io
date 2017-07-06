@@ -187,3 +187,7 @@ h1{
     background-color: orange;
     color: white;
 }
+
+.alignTextarea{
+    margin-left: 20px;
+}
