@@ -88,6 +88,9 @@ ul.post-sharing-menu > a {
     color: inherit;
 }
 
+.widget {
+    line-height: 160%;
+}
 .sidebar .widget-content a {
     color: black;
     line-height: 15px;
