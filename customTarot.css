@@ -272,3 +272,7 @@ blockquote {
 .widget ul {
     line-height: 1.6;
 }
+
+.invisible{
+    display:none;
+}
