@@ -275,3 +275,8 @@ blockquote {
 .invisible{
     display:none;
 }
+
+.thumbnail-signe{
+        background-color: #eee9e9;
+        box-shadow: 1px 1px 1px #666;
+}
