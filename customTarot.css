@@ -289,3 +289,8 @@ blockquote {
     padding: 0px;
     color: #ffffff;
 }
+
+.signe{
+    font-family: 'Oswald';
+    text-align: center;
+}
