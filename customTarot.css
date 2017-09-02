@@ -282,5 +282,10 @@ blockquote {
     padding: 0px;
     border:0px;
     border-radius:0px;
-    margin-bottom: 0px; 
+    margin-bottom: 5px; 
+}
+
+.thumbnail .caption {
+    padding: 0px;
+    color: "black";
 }
