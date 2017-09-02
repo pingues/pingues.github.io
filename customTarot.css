@@ -293,4 +293,6 @@ blockquote {
 .signe{
     font-family: 'Oswald';
     text-align: center;
+    font-size: 150%;
+    color:black
 }
