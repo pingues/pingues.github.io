@@ -281,5 +281,5 @@ blockquote {
     box-shadow: 1px 1px 1px #666;
     padding: 0px;
     border:0px;
-    border-radius:none;
+    border-radius:0px;
 }
