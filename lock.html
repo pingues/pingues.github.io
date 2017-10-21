@@ -1,0 +1,171 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Facebook Share to Unlock Content using jQuery & Facebook API - w3lessons.info</title>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+function shareOnFB() {
+     FB.ui({
+        method: "feed",
+        link: "http://w3lessons.info",
+        picture: "http://w3lessons.info/logo_large.png",
+        name: "W3lessons - PHP, MYSQL, HTML5, CSS3, jQuery, Ajax, Facebook Style Scripts",
+        caption: 'w3lessons.info',
+        description: "w3lessons.info is a programming blog maintained by Karthikeyan K. Tutorials focused on Programming, Jquery, Ajax, PHP,HTML5, CSS3, Web Design  and MySQL"
+      }, function(t){
+var str = JSON.stringify(t);
+var obj = JSON.parse(str); 
+        if(obj.post_id != '')
+        {
+          var secret_data = "<h2 class=\"stitle1\">Thank you!</h2><h2 class=\"stitle2\">Please use the below link to download</h2><p class=\"d_link\"><a href=\"https://app.box.com/s/j23e7gxuug2ml54m09d4\">https://app.box.com/s/j23e7gxuug2ml54m09d4</a></p>";
+          jQuery("#results").html(secret_data);
+        }
+      });
+}
+
+</script>
+<link href="style.css" media="all" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#keyword { height: 30px; padding: 2px;}
+.ajax_indi { display: none;}
+.stitle1{ color: #444; font-size: 21px; text-align: center; margin-top: 10px;}
+.stitle2{ color: #777; font-size: 18px; text-align: center; margin-top: 5px;}
+p.d_link { color: red; font-weight: bold; margin-top: 10px; text-align: center;}
+</style>
+</head>
+<body style="background:#ccc;">
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5104998679826243";
+/* mysite_indivi */
+google_ad_slot = "0527018651";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<div style="background:#fff; width:60%; margin:0 auto; padding:20px;">
+<center><h1 style="padding:0; margin:0;">Facebook Share to Unlock Content - w3lessons.info </h1></center>
+<br />
+
+<br/><br/>
+<div id="results">
+<p>Download content is locked! Please share it & unlock the content</p>
+<center>
+<img onclick="shareOnFB();" style="cursor:pointer" src="https://d1wofkmqsniyp0.cloudfront.net/public/v2.0/imgs/fbshare.png">
+</center>
+</div>
+
+<br/><br/><br/><br/><br/>
+<table>
+<tr>
+
+<td>
+
+<div id="fb_download">
+  
+  <div id="down_update" style="padding:5px;"> </div>
+  
+  <h4>Please subscribe & get Free Updates</h4>
+  <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=nextweb2', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+   <table>
+  <tr>
+  <td>Enter your email :</td><td><input type="text" style="width:200px; padding:2px;" name="email"/><input type="hidden" value="nextweb2" name="uri"/><input type="hidden" name="loc" value="en_US"/></td><td><input type="submit" class="uibutton" value="Subscribe" /></td>
+  </tr>
+  <tr>
+  <td colspan="3" align="center"><p><a href="http://feeds.feedburner.com/nextweb2"><img src="https://feeds.feedburner.com/~fc/nextweb2?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt="" /></a></p></td>
+  </tr>
+  </table>
+  </form>
+
+  
+  
+  </div>
+
+</td>
+<td valign="middle">
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5104998679826243";
+/* mysite_bottom */
+google_ad_slot = "2561567376";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+    </td>
+</table>
+
+
+
+    <script type="text/javascript"><!--
+google_ad_client = "ca-pub-5104998679826243";
+/* mysite_content */
+google_ad_slot = "2545318173";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>  
+    
+</div>
+
+<!-- Start of Woopra Code -->
+<script type="text/javascript">
+function woopraReady(tracker) {
+    tracker.setDomain('w3lessons.info');
+    tracker.setIdleTimeout(1800000);
+    tracker.track();
+    return false;
+}
+(function() {
+    var wsc = document.createElement('script');
+    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+    wsc.type = 'text/javascript';
+    wsc.async = true;
+    var ssc = document.getElementsByTagName('script')[0];
+    ssc.parentNode.insertBefore(wsc, ssc);
+})();
+</script>
+<!-- End of Woopra Code -->
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=145839838947717&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		   _gaq.push(['_setAccount', 'UA-27820211-3']);
+ _gaq.push(['_setDomainName', 'w3lessons.info']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+        
+<p style="font-size:12px;"><center><a href="http://w3lessons.info">by Karthikeyan K</a></center></p>
+
+</body>
+</html>
