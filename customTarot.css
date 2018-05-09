@@ -1,5 +1,7 @@
 
-
+div#FeaturedPost1 {
+    padding-top: 30px;
+}
 .navbar {
     border-bottom: 5px solid #d5d7db;
     border-top: none;
@@ -51,7 +53,6 @@ h1 {
     width: 100%;
     display: block;
     padding-bottom: 9px;
-    PADDING-TOP: 30PX;
     text-align: left;
 }
 
