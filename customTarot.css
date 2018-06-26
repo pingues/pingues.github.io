@@ -125,6 +125,7 @@ a.custom-header-text-color {
 
 img.img-responsive.carte {
     margin-top: 15px;
+    margin: 0 auto;
 }
 
 h2 {
@@ -303,8 +304,6 @@ a {
    text-decoration: underline;
 }
 
-.img-responsive {
-    margin: 0 auto;
-}
+
 
 
