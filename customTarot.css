@@ -302,3 +302,9 @@ blockquote {
 a {
    text-decoration: underline;
 }
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+
