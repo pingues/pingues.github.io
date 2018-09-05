@@ -131,6 +131,7 @@ img.img-responsive.carte {
 h2 {
     /*text-transform: uppercase;*/
     font-family: 'oswald';
+    text-transform:capitalize;
 }
 
 html {
