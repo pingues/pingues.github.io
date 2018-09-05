@@ -22,7 +22,7 @@
 			var reponseOuiNon = rendReponseOuiNon (numCarte);
 			
 			var resultat = "<h2>" + cartesOuiNon[numCarte]["nom"] 
-				+ "</h2><img src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
+				+ "</h2><img class=\"carte\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
 				+ "La r&eacute;ponse est : " + reponseOuiNon + "<br>"
 				+ cartesOuiNon[numCarte]["interpretation"];
 
@@ -30,7 +30,4 @@
 				$("#reponse").replaceWith('<div id="reponse">' + resultat + '</div>');
 				$("#reponse").fadeIn( "slow" );
 			});
-			
-			//$("#reponse").replaceWith('<div id="reponse">' + resultat + '</div>');
-
 		}
