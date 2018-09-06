@@ -23,7 +23,7 @@
 		var bouton = "<center>"+
 			"<button type=\"button\" class=\"btn btn-primary\" onclick=\"location.reload();\">"+
    				"<i class=\"fa fa-repeat\" aria-hidden=\"true\"></i>"+
-   				"Refaire un tirage"+
+   				" Refaire un tirage"+
 			"</button>"+
 			"</center>";
 
