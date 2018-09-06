@@ -29,7 +29,7 @@
 
 
 		var resultat = "<h2>Interprétation du tirage</h2>"
-			+ "<img class=\"img-responsive\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
+			+ "<br><img class=\"img-responsive\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
 			+ "<span style=\"text-transform:capitalize; font-size:150%\">" + cartesOuiNon[numCarte]["nom"] 
 			+ "</span> <span style=\"font-size:150%\">: la r&eacute;ponse est <strong>" + reponseOuiNon + "</strong></span><br>"
 			+ cartesOuiNon[numCarte]["interpretation"]
