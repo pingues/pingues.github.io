@@ -40,7 +40,7 @@
 			+ "<br><img class=\"img-responsive\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br><br>"
 			+ pub + "<br><br>"
 			+ "<span style=\"text-transform:capitalize; font-size:150%\">" + cartesOuiNon[numCarte]["nom"] 
-			+ "</span> <span style=\"font-size:150%\">: la r&eacute;ponse est <strong>" + reponseOuiNon + "</strong></span><br>"
+			+ "</span> <span style=\"font-size:150%\">: la r&eacute;ponse est <strong>" + reponseOuiNon + "</strong></span><br><br>"
 			+ cartesOuiNon[numCarte]["interpretation"]
 			+ "<br><br>" + bouton;    
 		    
