@@ -39,7 +39,7 @@ var cartesOuiNon = [
 	nom : "l&#039;empereur",
 	ouiNon : 2,
 	image : "https://4.bp.blogspot.com/-OG3xbhKzVFc/WzOXxlfms6I/AAAAAAAAFnE/_1ays5yWv5EydqUDPuIUCUk6kKGCiBv0ACLcBGAs/s1600/4.jpg",
-	interpretation : L&#039;&eacute;nergie propre au personnage le rend tr&egrave;s pers&eacute;v&eacute;rant, lui donne une grande r&eacute;sistance &agrave; la fatigue, &agrave; la n&eacute;gligence, &agrave; l&#039;indiff&eacute;rence. <br /> <br /> Puissant protecteur, il peut &ecirc;tre rattach&eacute; &agrave; l&#039;image et &agrave; l&#039;influence masculines. <br /> &Eacute;poux, p&egrave;re qui veillera sur ses enfants. <br /> <br /> Grande facilit&eacute; pour obtenir biens, richesse et dons. <br /> Son pouvoir s&#039;affirme au fur et &agrave; mesure qu&#039;il consolide sa position avantageuse"
+	interpretation : "L&#039;&eacute;nergie propre au personnage le rend tr&egrave;s pers&eacute;v&eacute;rant, lui donne une grande r&eacute;sistance &agrave; la fatigue, &agrave; la n&eacute;gligence, &agrave; l&#039;indiff&eacute;rence. <br /> <br /> Puissant protecteur, il peut &ecirc;tre rattach&eacute; &agrave; l&#039;image et &agrave; l&#039;influence masculines. <br /> &Eacute;poux, p&egrave;re qui veillera sur ses enfants. <br /> <br /> Grande facilit&eacute; pour obtenir biens, richesse et dons. <br /> Son pouvoir s&#039;affirme au fur et &agrave; mesure qu&#039;il consolide sa position avantageuse"
 },
 
 {
