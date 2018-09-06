@@ -28,8 +28,8 @@
 */
 		var resultat = "<h2>Interprétation du tirage</h2>"
 			+ "<img class=\"carte\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
-			+ "<span style=\"text-transform:capitalize\">" + cartesOuiNon[numCarte]["nom"] 
-			+ "</span> : la r&eacute;ponse est <strong>" + reponseOuiNon + "</strong><br>"
+			+ "<span style=\"text-transform:capitalize; font-size:150%\">" + cartesOuiNon[numCarte]["nom"] 
+			+ "</span> <span style=\"font-size:150%\">: la r&eacute;ponse est <strong>" + reponseOuiNon + "</strong></span><br>"
 			+ cartesOuiNon[numCarte]["interpretation"];    
 		    
 		$("#reponse").toggle( "slow", function(){
