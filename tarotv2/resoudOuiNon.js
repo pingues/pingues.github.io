@@ -18,16 +18,21 @@
 		}
 		
 	    function resoudOuiNon(){
-			var numCarte = entierAleatoire(0, 21);
-			var reponseOuiNon = rendReponseOuiNon (numCarte);
+		var numCarte = entierAleatoire(0, 21);
+		var reponseOuiNon = rendReponseOuiNon (numCarte);
 			
-			var resultat = "<h2>" + cartesOuiNon[numCarte]["nom"] 
+			/*var resultat = "<h2>" + cartesOuiNon[numCarte]["nom"] 
 				+ "</h2><img class=\"carte\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
 				+ "La r&eacute;ponse est : " + reponseOuiNon + "<br>"
 				+ cartesOuiNon[numCarte]["interpretation"];
-
-			$("#reponse").toggle( "slow", function(){
-				$("#reponse").replaceWith('<div id="reponse">' + resultat + '</div>');
-				$("#reponse").fadeIn( "slow" );
-			});
-		}
+*/
+		var resultat = "<h2>Interprétation de votre tirage</h2>"
+			+ "<img class=\"carte\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
+			+ cartesOuiNon[numCarte]["nom"] + ": la r&eacute;ponse est : <strong>" + reponseOuiNon + "</stong><br>"
+			+ cartesOuiNon[numCarte]["interpretation"];    
+		    
+		$("#reponse").toggle( "slow", function(){
+			$("#reponse").replaceWith('<div id="reponse">' + resultat + '</div>');
+			$("#reponse").fadeIn( "slow" );
+		});
+	}
