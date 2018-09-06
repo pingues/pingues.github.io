@@ -28,7 +28,7 @@
 			"</center>";
 
 		var pub ="<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>"+
-			"<ins class=\"adsbygoogle\"+
+			"<ins class=\"adsbygoogle\""+
      			"style=\"display:inline-block;width:728px;height:90px\"+
      			"data-ad-client=\"ca-pub-5872858147264773\"+
      			"data-ad-slot=\"3077370541\"></ins>"+
