@@ -7,13 +7,13 @@
 		
 		function rendReponseOuiNon(carte){
 			if (cartesOuiNon[carte]["ouiNon"] == 0){
-				return "non";
+				return "NON";
 			}
 			else if (cartesOuiNon[carte]["ouiNon"] == 1){
-				return "oui";
+				return "OUI";
 			}
 			else if (cartesOuiNon[carte]["ouiNon"] == 2){
-				return "peut-&ecirc;tre";
+				return "PEUT-&Ecirc;TRE";
 			}
 		}
 		
@@ -28,7 +28,8 @@
 */
 		var resultat = "<h2>Interprétation du tirage</h2>"
 			+ "<img class=\"carte\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
-			+ cartesOuiNon[numCarte]["nom"] + ": la r&eacute;ponse est : <strong>" + reponseOuiNon + "</strong><br>"
+			+ "<div style=\"text-transform:capitalize\">" + cartesOuiNon[numCarte]["nom"] 
+			+ "</div> : la r&eacute;ponse est : <strong>" + reponseOuiNon + "</strong><br>"
 			+ cartesOuiNon[numCarte]["interpretation"];    
 		    
 		$("#reponse").toggle( "slow", function(){
