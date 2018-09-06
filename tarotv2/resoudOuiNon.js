@@ -45,6 +45,7 @@
 			+ "<br><br>" + bouton;    
 		    
 		$("#reponse").toggle( "slow", function(){
+			$("#commentFaire").hide();
 			$("#reponse").replaceWith('<div id="reponse">' + resultat + '</div>');
 			$("#reponse").fadeIn( "slow" );
 		});
