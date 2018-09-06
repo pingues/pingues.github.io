@@ -26,9 +26,9 @@
 				+ "La r&eacute;ponse est : " + reponseOuiNon + "<br>"
 				+ cartesOuiNon[numCarte]["interpretation"];
 */
-		var resultat = "<h2>Interprétation de votre tirage</h2>"
+		var resultat = "<h2>Interprétation du tirage</h2>"
 			+ "<img class=\"carte\" src=\"" + cartesOuiNon[numCarte]["image"] + "\"><br>"
-			+ cartesOuiNon[numCarte]["nom"] + ": la r&eacute;ponse est : <strong>" + reponseOuiNon + "</stong><br>"
+			+ cartesOuiNon[numCarte]["nom"] + ": la r&eacute;ponse est : <strong>" + reponseOuiNon + "</strong><br>"
 			+ cartesOuiNon[numCarte]["interpretation"];    
 		    
 		$("#reponse").toggle( "slow", function(){
