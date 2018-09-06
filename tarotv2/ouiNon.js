@@ -53,7 +53,7 @@ var cartesOuiNon = [
 	nom : "l&#039;amoureux",
 	ouiNon : 1,
 	image : "https://4.bp.blogspot.com/-_RFffTVUsEw/WzOiUYJnEvI/AAAAAAAAFn8/SCfAkvIWS8o6gjD18zOmiuNEHdUThupvgCLcBGAs/s1600/6.jpg",
-	interpretation : Le personnage se situe &agrave; un moment o&ugrave; il a pris une d&eacute;cision entre deux choix oppos&eacute;s. <br /> <br /> Il faut qu&#039;il le manifeste sans tarder afin que la possibilit&eacute; contraire ne constitue pas un fardeau et un obstacle &agrave; ses projets. <br /> <br /> Il faut &eacute;couter la voix du sentiment et &eacute;loigner les directives de la raison, parce que le chemin du c&oelig;ur signifie aventure, myst&egrave;re et une fin g&eacute;n&eacute;ralement impr&eacute;visible. <br /> <br /> L&#039;objet de ce d&eacute;sir ardent constitue une fin imminente. <br /> La richesse qu&#039;ouvrira ce choix sera incalculable. <br /> Y renoncer peut mener &agrave; une stagnation st&eacute;rile.
+	interpretation : "Le personnage se situe &agrave; un moment o&ugrave; il a pris une d&eacute;cision entre deux choix oppos&eacute;s. <br /> <br /> Il faut qu&#039;il le manifeste sans tarder afin que la possibilit&eacute; contraire ne constitue pas un fardeau et un obstacle &agrave; ses projets. <br /> <br /> Il faut &eacute;couter la voix du sentiment et &eacute;loigner les directives de la raison, parce que le chemin du c&oelig;ur signifie aventure, myst&egrave;re et une fin g&eacute;n&eacute;ralement impr&eacute;visible. <br /> <br /> L&#039;objet de ce d&eacute;sir ardent constitue une fin imminente. <br /> La richesse qu&#039;ouvrira ce choix sera incalculable. <br /> Y renoncer peut mener &agrave; une stagnation st&eacute;rile."
 },
 
 {
