@@ -34,7 +34,7 @@ div#FeaturedPost1 {
 h1 {
     font-family:'Oswald';
     -webkit-margin-before: none;
-    text-transform: uppercase;
+    text-transform: capitalize;
     margin-top: 0.67em;
     display:inline;
 }
